@@ -1,4 +1,4 @@
-package NewSet.DSA;
+package NewSet.DSA.Trash;
 
 public class StringDiff {
     static String unique(String name){

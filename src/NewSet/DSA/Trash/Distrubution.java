@@ -1,4 +1,4 @@
-package NewSet.DSA;
+package NewSet.DSA.Trash;
 import java.util.*;
 public class Distrubution {
     public static void main(String[] args) {

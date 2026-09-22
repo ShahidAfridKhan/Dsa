@@ -1,4 +1,4 @@
-package NewSet.DSA;
+package NewSet.DSA.Trash;
 import java.util.*;
 public class ArrayListPB {
     public static int maxelement(List<Integer> list,int n){

@@ -1,4 +1,4 @@
-package NewSet.DSA;
+package NewSet.DSA.Trash;
 
 public class Largest {
     public static String largest(String name){
