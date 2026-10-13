@@ -1,3 +1,4 @@
+package OldSet.OOPS.binarysearch;
 
 import java.util.*;
 public class binsearch {
