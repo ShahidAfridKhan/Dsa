@@ -2,23 +2,21 @@ package NewSet.dsa.OOPS;
 
 public class Encapsulation {
 
-    private double balance;
+    private int balance = 5000;
 
-    public void deposite(double amount){
-        balance+=amount;
-    }
-
-    public double getbalance(){
+    public int getbalance() {
         return balance;
     }
 
+    public int setbalance(int amount) {
+        balance += amount;
+
+        return balance;
+    }
 
     public static void main(String[] args) {
         Encapsulation e=new Encapsulation();
 
-        e.deposite(50000);
-        e.deposite(90000);
-
-        System.out.println(e.getbalance());
+        System.out.println(e.setbalance(4000));
     }
 }
