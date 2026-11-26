@@ -24,5 +24,8 @@ public class custome {
 
         list.add(s);
 
+        System.out.println("Hi this is new ");
+
     }
+
 }
